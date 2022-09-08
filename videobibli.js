@@ -39,7 +39,7 @@ document.getElementById('acceuil').addEventListener('click',() =>{
 
 document.getElementById('cv').addEventListener('click',() =>{
 
-    window.location.href='video.html'
+    window.location.href='cv.html'
 })
 
 
