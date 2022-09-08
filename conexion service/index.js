@@ -38,7 +38,7 @@ document.getElementById('bouton').addEventListener('click', () =>{
     console.log(resultid)
     if(resultid == verifid && resultmdp == mdpverif)
     {
-        window.location.href='C:/Users/moham/OneDrive/Bureau/projet web/index.html'
+        window.location.href='projet web/index.html'
 
     }
     else {
