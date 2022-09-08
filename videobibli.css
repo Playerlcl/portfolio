@@ -62,7 +62,7 @@ footer{
 }
 
 p{
-    padding: 3rem 20rem;
+    padding: 3rem 10rem;
     
 }
 .link-grow
@@ -117,11 +117,6 @@ p{
 }
 
 #video{
-    position: absolute;
-    height: auto;
-    width: 600;
-    top: 30%;
-    left: 30%;
-    z-index: 5;
-
+    position: relative;
+    
 }

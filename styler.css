@@ -65,9 +65,7 @@ nav{
     filter: none;
 }
 
-p{
-    padding: 3rem 5rem;
-}
+
 
 .cursor{
     width: 3rem;
@@ -106,6 +104,7 @@ footer{
 #textfooter{
     color: white;
     cursor: none;
+    padding: 3rem 5rem;
     
 }
 
