@@ -37,13 +37,6 @@ navlinks.forEach(link => {
 };*/
 
 
-var boutton =document.getElementById('bouton');
-boutton.addEventListener('click',() =>{
-
-    /*window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/conexion service/index.html'*/
-    boutton.innerHTML('Conecté')
-    console.log("c est cliquer")
-})
 document.getElementById('vid').addEventListener('click',() =>{
 
     window.location.href='video.html'
