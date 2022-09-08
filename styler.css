@@ -95,15 +95,7 @@ p{
     z-index: 4;
 }
 
-#bouton{
-    border-radius: 100px;
-    width: 5rem;
-    height: 1.5rem;
-    cursor: none;
-    outline: none;
-    border: none
 
-}
 
 footer{
     position:relative;

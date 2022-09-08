@@ -49,7 +49,3 @@ document.getElementById('vid').addEventListener('click',() =>{
     window.location.href='video.html'
 })
 
-document.getElementById('bouton').addEventListener('click', () =>{
-
-    window.location.href='conexion.html'
-})
