@@ -39,7 +39,6 @@ document.getElementById('bouton').addEventListener('click', () =>{
     if(resultid == verifid && resultmdp == mdpverif)
     {
         window.location.href='index.html'
-
     }
     else {
         alert("le mot de passe ou l'identifiant sont mauvais")
