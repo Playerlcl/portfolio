@@ -51,5 +51,5 @@ document.getElementById('vid').addEventListener('click',() =>{
 
 document.getElementById('bouton').addEventListener('click', () =>{
 
-    window.location.href='conexion service/index.html'
+    window.location.href='conexion.html'
 })
