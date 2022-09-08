@@ -21,11 +21,24 @@ motdepasse.addEventListener('input', (e) =>{
     console.log(resultmdp)
 })
 
+/*document.getElementById('bouton').addEventListener('click', () =>{
+    console.log(resultid)
+    if(resultid == verifid && resultmdp == mdpverif)
+    {
+        window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/boutonsouris/index.html';
+
+    }
+    else {
+        alert("le mot de passe ou l'identifiant sont mauvais")
+    }
+
+})*/
+
 document.getElementById('bouton').addEventListener('click', () =>{
     console.log(resultid)
     if(resultid == verifid && resultmdp == mdpverif)
     {
-        window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/boutonsouris/index.html';
+        window.location.href='C:/Users/moham/OneDrive/Bureau/projet web/index.html'
 
     }
     else {
@@ -34,24 +47,6 @@ document.getElementById('bouton').addEventListener('click', () =>{
 
 })
 
-document.getElementById('vid').addEventListener('click', () =>{
-    console.log(resultid)
-    if(resultid == verifid && resultmdp == mdpverif)
-    {
-        window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/boutonsouris/index.html';
 
-    }
-    else {
-        alert("le mot de passe ou l'identifiant sont mauvais")
-    }
-
-})
-
-document.getElementById('vid').addEventListener('click', () =>{
-   
-        window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/boutonsouris/Videobibli.html';
-
-    
-})
 
 

@@ -28,9 +28,22 @@ navlinks.forEach(link => {
 
 document.getElementById('bouton').addEventListener('click',() =>{
 
-    window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/conexion service/index.html'
+    window.location.href='conexion service/index.html'
 })
 document.getElementById('vid').addEventListener('click',() =>{
 
-    window.location.href='/Users/mac/Desktop/Projet apprenti web dev/aprenti javascript/boutonsouris/Videobibli.html'
+    window.location.href='video.html'
 })
+
+
+var montage = document.getElementById('video');
+
+montage.innerHTML = 
+`<iframe
+  width="654"
+  height="491"
+  src="https://www.youtube.com/embed/1taPBveYX4A"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>`;

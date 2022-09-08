@@ -85,3 +85,13 @@ p{
     border: 2px inset black;
 
 }
+
+#video{
+    position: absolute;
+    height: auto;
+    width: 600;
+    top: 30%;
+    left: 30%;
+    z-index: 5;
+
+}
