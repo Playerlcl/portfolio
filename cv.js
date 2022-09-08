@@ -1,5 +1,3 @@
-
-
 let mouse = document.querySelector(".cursor");
 window.addEventListener('mousemove', cursor);
 
@@ -42,7 +40,7 @@ document.getElementById('vid').addEventListener('click',() =>{
     window.location.href='video.html'
 })
 
-document.getElementById('acceuil').addEventListener('click',() =>{
+document.getElementById('accueil').addEventListener('click',() =>{
 
     window.location.href='index.html'
 })
@@ -51,4 +49,3 @@ document.getElementById('cv').addEventListener('click',() =>{
 
     window.location.href='cv.html'
 })
-
